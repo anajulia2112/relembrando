@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(154, 255, 154);
+}
+ 
+header {
+    background-color: rgb(150, 250, 208);
+    border: 5px solid rgb(2, 87, 16);
+}
+
+.imagemlogo {
+     width: 35%;
+     padding-left: 30%;
+
+}
+
+h1{
+    text-align: center;
+}
+p {
+    text-align: center;
+
+}
